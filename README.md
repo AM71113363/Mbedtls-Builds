@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" width="422" height="422" src="https://avatars.githubusercontent.com/u/97226525">
+<img align="center" width="211" height="211" src="https://avatars.githubusercontent.com/u/97226525">
 </p>
 
 # Mbedtls BUILDS
